@@ -1,13 +1,13 @@
-# Case Study for Internship Application  
+# Case Study: Appointment Scheduling System  
 
 ## **Overview**  
-This repository contains the work I prepared as part of an internship application process. The task involved developing comprehensive case study documents, demonstrating my ability to understand user needs and translate them into actionable requirements and designs.
+This repository presents the case study documents I developed to design a comprehensive Appointment Scheduling System for a healthcare platform. The documents demonstrate a structured approach to addressing user needs and translating them into actionable requirements and designs.
 
 ## **Contents**  
 The repository includes:  
-- **User Stories**: Problem-centric user stories for both patient and provider sides, highlighting key challenges and solutions.  
-- **Functional and Non-Functional Requirements**: Detailed specifications that define the system's capabilities and constraints.  
-- **Success Metrics**: Goals and measurable outcomes for evaluating the application's effectiveness.  
+- **User Stories**: Problem-centric user stories for both patient and provider sides, highlighting key challenges and proposed solutions.  
+- **Functional and Non-Functional Requirements**: Detailed specifications defining the system's capabilities and constraints.  
+- **Success Metrics**: Goals and measurable outcomes for evaluating the system's effectiveness.  
 - **Figma Prototype**: A clickable prototype illustrating the proposed solution (link inside the documents).  
 - **Rough Sketches**: Initial conceptual diagrams created to visualize the solution.  
 
@@ -15,10 +15,10 @@ The repository includes:
 These documents showcase the following:  
 1. **Comprehensive Approach**: Identifying user pain points and proposing effective solutions.  
 2. **Clear Documentation**: Well-structured and actionable product requirements.  
-3. **User-Centric Design**: Prototypes and sketches designed with the end-user in mind.  
+3. **User-Centric Design**: Prototypes and sketches tailored to address user needs effectively.  
 
 ## **Attachments**  
-I have included the rough sketches that offer insight into my thought process and design considerations. Please feel free to review them for a better understanding of the solution approach.  
+I have included the rough sketches that offer insights into my thought process and design considerations. Please feel free to review them for a better understanding of the solution approach.  
 
 ---
 
